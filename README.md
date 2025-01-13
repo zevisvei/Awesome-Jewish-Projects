@@ -3,10 +3,10 @@
 - [דיקטה](https://github.com/Dicta-Israel-Center-for-Text-Analysis/Dicta-Library-Download)
 - [אורייתא ספרים](https://github.com/MosheWagner/Orayta-Books)
 - [אוצריא ספרים](https://github.com/Sivan22/otzaria-library)
--[sefaria export](https://github.com/Sefaria/Sefaria-Export)
+- [sefaria export](https://github.com/Sefaria/Sefaria-Export)
 - [tnach-text](https://github.com/disacorns/tnach-text)
 - [talmud-bavli-text](https://github.com/disacorns/talmud-bavli-text/tree/master)
--[ToratEmetBooks](https://github.com/pcinfogmach/ToratEmetBooks)
+- [ToratEmetBooks](https://github.com/pcinfogmach/ToratEmetBooks)
 ### e-books:
 - [kindle-seforim](https://github.com/yparitcher/kindle-seforim)
 - [epub-Jewish-books](https://github.com/zevisvei/epub-Jewish-books)
