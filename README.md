@@ -32,6 +32,12 @@
 - [python-hebrew-numbers](https://github.com/OriHoch/python-hebrew-numbers)
 - [gematriapy](https://github.com/NoamNol/gematriapy)  
 ***קיים גם ב [pyluach](https://github.com/simlist/pyluach) וב [Hebrew](https://github.com/avi-perl/Hebrew)***
+  ### ניקוד
+- [nakdimon-onnx](https://github.com/thewh1teagle/nakdimon-onnx)
+- **Dicta API**  
+  - [elazarg](https://gist.github.com/elazarg/2290b6e7e6f9eb8e8e0b90f1925eba60#file-nakdan-py)  
+  - [Mitmachim](https://mitmachim.top/post/776818)
+
 ### שונות
 - [KolHalashonApi](https://github.com/ZviCode/KolHalashonApi)
 - [Hebrew](https://github.com/avi-perl/Hebrew)
