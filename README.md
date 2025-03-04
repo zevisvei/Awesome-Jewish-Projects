@@ -37,6 +37,7 @@
 - **Dicta API**  
   - [elazarg](https://gist.github.com/elazarg/2290b6e7e6f9eb8e8e0b90f1925eba60#file-nakdan-py)  
   - [Mitmachim](https://mitmachim.top/post/776818)
+  - [unikud](https://github.com/morrisalp/unikud)
 
 ### שונות
 - [KolHalashonApi](https://github.com/ZviCode/KolHalashonApi)
