@@ -14,9 +14,9 @@
 - [אוצריא](https://github.com/Sivan22/otzaria)
 - [אורייתא](https://github.com/MosheWagner/Orayta-QT)
 - [סטנדר](https://github.com/Yiddishe-Kop/jewishbooks-wiki)
+- [זית](https://github.com/kdroidFilter/Zayit)
 ### ספריא:
 - [Sefaria-Desktop-Unofficial](https://github.com/orxaicom/Sefaria-Desktop-Unofficial)
-- (https://github.com/kdroidFilter/seforim)
 ## זמני היום:
 - [LuachProject](https://github.com/ComputeHalacha/JewishCalendar/releases)
 - [MyZman](https://github.com/NykUser/MyZman)
